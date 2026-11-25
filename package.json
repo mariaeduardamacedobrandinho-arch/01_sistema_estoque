@@ -1,0 +1,32 @@
+{
+  "name": "01_sistema_estoque",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sistema de estoque criado no curso de programador de sistema - Autenticação MySQL com níveis de usuário e identificação de sessão Electron.",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^8.8.1",
+    "bootstrap": "^5.3.9",
+    "dotenv": "^18.0.10",
+    "mysql2": "^3.24.6"
+  },
+  "devDependencies": {
+    "electron": "^45.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariaeduardamacedobrandinho-arch/01_sistema_estoque.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mariaeduardamacedobrandinho-arch/01_sistema_estoque/issues"
+  },
+  "homepage": "https://github.com/mariaeduardamacedobrandinho-arch/01_sistema_estoque#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
